@@ -1,0 +1,102 @@
+/* ***************************Selector************************************ */
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.62rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+
+td{
+  text-align: left;
+}
+
+/* ***************************class************************************ */
+.top-container{
+  background-color: #E4F9F5;
+  position:relative;
+  padding-top: 200px;
+
+}
+
+.profile{
+  width:50%;
+}
+
+.profileimg{
+  border-radius: 100%;
+  width:25%;
+}
+
+.comp1{
+  width:30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.comp2{
+  width:30%;
+  float: right;
+
+}
+
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  width:50%;
+  text-align: left;
+}
+
+.skill-row1{
+  margin: 50px auto 70px auto;
+  line-height: 2;
+  width:50%;
+}
+
+
+.profile{
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.contact{
+  color:white;
+}
+
+.footer{
+background-color: #11999E
+}
